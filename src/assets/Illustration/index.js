@@ -9,7 +9,7 @@ import ILDocVet from './doc-vet.svg'
 import ILDocDen from './doc-den.svg'
 import ILMedicine from './medicine.svg'
 import ILCover from './cover.png'
-import ILSehat from './Sehat.png'
+import ILSehat from './SIRIUS.svg'
 
 export {
     ILFirst,
